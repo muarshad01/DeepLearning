@@ -28,12 +28,12 @@
 | [Lecture 22 - Coding Optimizers in Neural Networks: Gradient Descent]()|||
 | [Lecture 23 - Learning Rate Decay in Neural Network Optimization]()|||
 | [Lecture 24 - Momentum in training neural networks]()|||
-| [Lecture 25 -Coding the ADAGRAD optimizer for Neural Network training]()|||
+| [Lecture 25 - Coding the ADAGRAD optimizer for Neural Network training]()|||
 | [Lecture 26 - Coding the RMSProp Optimizer with Neural Network training]()|||
-| [Lecture 27 -Coding the ADAM optimizer for neural networks]()|||
-Neural Networks in 100 minutes: Coded from scratch]()|||
-| [Lecture 28 -Neural network testing, generalization and overfitting]()|||
-| [Lecture 29 -K-fold cross validation in Neural Networks]()|||
+| [Lecture 27 - Coding the ADAM optimizer for neural networks]()|||
+| [Neural Networks in 100 minutes: Coded from scratch]()|||
+| [Lecture 28 - Neural network testing, generalization and overfitting]()|||
+| [Lecture 29 - K-fold cross validation in Neural Networks]()|||
 | [Lecture 30 - L1/L2 Regularization to avoid neural network overfitting]()|||
 | [Lecture 31 - Dropout layers in neural networks - Full code]()|||
 | [Hands on Neural Networks Project: MNIST Fashion Dataset]()|||
