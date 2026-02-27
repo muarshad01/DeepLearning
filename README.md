@@ -15,12 +15,12 @@
 | [Lecture 09 - Introduction to Optimization in Neural Network training](https://www.youtube.com/watch?v=WVFMxpTD09w&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
 | [Lecture 10 - Partial Derivatives and Gradient in Neural Networks](https://www.youtube.com/watch?v=Utvna4t0NmA&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
 | [Lecture 11 - Understand Chain Rule: The backbone of Neural Networks](https://www.youtube.com/watch?v=_rVPkUag1YU&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
-| [Lecture 12 - Backpropagation from scratch on a single neuron]()|||
-| [Lecture 13 - Backpropagation through an entire layer of neurons: from scratch]()|||
-| [Lecture 14 - Role of matrices in backpropagation]()|||
-| [Lecture 15 - Finding derivatives of inputs in backpropagation and why we need them]()|||
-| [Lecture 16 - Coding Backpropagation building blocks in Python]()|||
-| [Lecture 17 - Backpropagation on the ReLU activation class]()|||
+| [Lecture 12 - Backpropagation from scratch on a single neuron](https://www.youtube.com/watch?v=iE1lccrHfok&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
+| [Lecture 13 - Backpropagation through an entire layer of neurons: from scratch](https://www.youtube.com/watch?v=wLLuNyZM8Sw&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
+| [Lecture 14 - Role of matrices in backpropagation](https://www.youtube.com/watch?v=cuveqaYX1bw&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
+| [Lecture 15 - Finding derivatives of inputs in backpropagation and why we need them](https://www.youtube.com/watch?v=sjbs-usnjIY&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
+| [Lecture 16 - Coding Backpropagation building blocks in Python](https://www.youtube.com/watch?v=UOgFWMLrWcA&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
+| [Lecture 17 - Backpropagation on the ReLU activation class](https://www.youtube.com/watch?v=PmqHkytaRSU&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
 | [Lecrure 18 - Implementing backpropagation on the cross entropy loss function]()|||
 | [Lecture 19 - Combined backpropagation on softmax activation and cross entropy loss]()|||
 | [Lecture 20 - Build the entire backpropagation pipeline for neural networks - No PyTorch, Tensorflow]()|||
