@@ -22,6 +22,7 @@
 | [Lecture 16 - Coding Backpropagation building blocks in Python](https://www.youtube.com/watch?v=UOgFWMLrWcA&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
 | [Lecture 17 - Backpropagation on the ReLU activation class](https://www.youtube.com/watch?v=PmqHkytaRSU&list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)|||
 | [Lecrure 18 - Implementing backpropagation on the cross entropy loss function]()|||
+|---|---|---|
 | [Lecture 19 - Combined backpropagation on softmax activation and cross entropy loss]()|||
 | [Lecture 20 - Build the entire backpropagation pipeline for neural networks - No PyTorch, Tensorflow]()|||
 | [Lecture 21 - Coding the entire neural network forward backward pass in Python]()|||
