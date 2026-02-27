@@ -5,9 +5,9 @@
 | Lecture | Notes | Data|
 |---|---|---|
 | [Lecture 1 - Neural Network from Scratch: Coding Neurons and Layers]()|||
-| [Lecture 2 - The beauty of numpy and dot product in coding neurons and layers()]|||
-| [Lecture 3 - Coding multiple neural network layers and stacking them together()]|||
-| [Lecture 4 - Implementing the Dense Layer Class in Python()]|||
+| [Lecture 2 - The beauty of numpy and dot product in coding neurons and layers]()|||
+| [Lecture 3 - Coding multiple neural network layers and stacking them together]()|||
+| [Lecture 4 - Implementing the Dense Layer Class in Python]()|||
 | [Lecture 5 - Broadcasting and array summation in Python
 | [Lecture 6 - Coding Neural Network Activation Functions from scratch
 | [Lecture 7 - Coding one neural network forward pass in Python (no loss)
