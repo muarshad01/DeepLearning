@@ -4,15 +4,15 @@
 
 | Lecture | Notes | Data|
 |---|---|---|
-| [Lecture 1 - Neural Network from Scratch: Coding Neurons and Layers]()|||
-| [Lecture 2 - The beauty of numpy and dot product in coding neurons and layers]()|||
-| [Lecture 3 - Coding multiple neural network layers and stacking them together]()|||
-| [Lecture 4 - Implementing the Dense Layer Class in Python]()|||
-| [Lecture 5 - Broadcasting and array summation in Python]()|||
-| [Lecture 6 - Coding Neural Network Activation Functions from scratch]()|||
-| [Lecture 7 - Coding one neural network forward pass in Python (no loss)]()|||
-| [Lecture 8 - Coding the cross entropy loss in Python (from scratch)]()|||
-| [Lecture 9 - Introduction to Optimization in Neural Network training]()|||
+| [Lecture 01 - Neural Network from Scratch: Coding Neurons and Layers]()|||
+| [Lecture 02 - The beauty of numpy and dot product in coding neurons and layers]()|||
+| [Lecture 03 - Coding multiple neural network layers and stacking them together]()|||
+| [Lecture 04 - Implementing the Dense Layer Class in Python]()|||
+| [Lecture 05 - Broadcasting and array summation in Python]()|||
+| [Lecture 06 - Coding Neural Network Activation Functions from scratch]()|||
+| [Lecture 07 - Coding one neural network forward pass in Python (no loss)]()|||
+| [Lecture 08 - Coding the cross entropy loss in Python (from scratch)]()|||
+| [Lecture 09 - Introduction to Optimization in Neural Network training]()|||
 | [Lecture 10 - Partial Derivatives and Gradient in Neural Networks]()|||
 | [Lecture 11 - Understand Chain Rule: The backbone of Neural Networks]()|||
 | [Lecture 12 - Backpropagation from scratch on a single neuron]()|||
